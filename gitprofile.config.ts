@@ -35,9 +35,7 @@ const CONFIG = {
         {
           title: 'TNT DJ ',
           description:
-            'a DJ reservation service for a local business, enabling 
-              users to book the provided services online. using Angular 17, Node.js, 
-              MongoDB and Express.js',
+            'a DJ reservation service for a local business, enabling users to book the provided services online. using Angular 17, Node.js, MongoDB and Express.js',
           imageUrl:
             'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEeAeUDKy7DrHMGTH0IzIJG_ayL4tVPKJRRQ&s',
           link: 'https://tnt-dj-group.web.app/explosion',
@@ -45,9 +43,7 @@ const CONFIG = {
         {
           title: 'Alone with a stranger',
           description:
-            'a chatbot using TensorFlow and Python to serve as an in
-game assistant, using natural language processing (NLP) algorithms 
-to provide accurate and context-aware responses.',
+            'a chatbot using TensorFlow and Python to serve as an in game assistant, using natural language processing (NLP) algorithms to provide accurate and context-aware responses.',
           imageUrl:
             'https://img.freepik.com/free-photo/view-boat-water_23-2150693432.jpg?t=st=1722527761~exp=1722531361~hmac=38265ee8aaed4a41ad2f5e278d78bd908d6cce42fbafc616f16b892d838ede0d&w=900',
           link: '',
