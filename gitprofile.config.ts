@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      //'/public/Mohammad-salhi-resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '/public/Mohammad-salhi-resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Angular',
