@@ -80,11 +80,11 @@ to provide accurate and context-aware responses.',
     website: 'https://www.arifszn.com',
     phone: '',
     email: 'salhi13.ps@gmail.com',
-    leetcode:'https://leetcode.com/u/out-of-context/'
+    //leetcode:'https://leetcode.com/u/out-of-context/'
   },
   resume: {
     fileUrl:
-      '/public/Mohammad-salhi-resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      //'/public/Mohammad-salhi-resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Angular',
@@ -97,7 +97,7 @@ to provide accurate and context-aware responses.',
     'Git',
     'HTML',
     'SCSS',
-    'Python'
+    'Python',
   ],
   experiences: [
     {
@@ -134,16 +134,6 @@ to provide accurate and context-aware responses.',
   ],
   publications: [
   ],
-  // Display articles from your medium or dev account. (Optional)
-  blog: {
-    
-  },
-  googleAnalytics: {
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-   
-  },
   themeConfig: {
     defaultTheme: 'dark',
 
