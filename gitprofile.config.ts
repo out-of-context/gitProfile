@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['out-of-context/giphy'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -35,24 +35,28 @@ const CONFIG = {
         {
           title: 'TNT DJ ',
           description:
-            'Reservation service for a local business to reserve a DJ for weddings and ocassions',
+            'a DJ reservation service for a local business, enabling 
+              users to book the provided services online. using Angular 17, Node.js, 
+              MongoDB and Express.js',
           imageUrl:
             'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEeAeUDKy7DrHMGTH0IzIJG_ayL4tVPKJRRQ&s',
           link: 'https://tnt-dj-group.web.app/explosion',
         },
         {
-          title: 'Project Name',
+          title: 'Alone with a stranger',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'a chatbot using TensorFlow and Python to serve as an in
+game assistant, using natural language processing (NLP) algorithms 
+to provide accurate and context-aware responses.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://img.freepik.com/free-photo/view-boat-water_23-2150693432.jpg?t=st=1722527761~exp=1722531361~hmac=38265ee8aaed4a41ad2f5e278d78bd908d6cce42fbafc616f16b892d838ede0d&w=900',
+          link: '',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Mohammad Salhi',
     description: '',
     imageURL: '',
   },
