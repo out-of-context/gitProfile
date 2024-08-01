@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['out-of-context/tnt-dj', ''out-of-context/tnt-dj-be', 'out-of-context/alone-with-a-stranger','out-of-context/portfolio'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['out-of-context/tnt-dj', 'out-of-context/tnt-dj-be', 'out-of-context/alone-with-a-stranger', 'out-of-context/portfolio'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
