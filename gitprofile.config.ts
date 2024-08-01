@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'TNT DJ ',
+          title: 'TNT DJ',
           description:
             'a DJ reservation service for a local business, enabling users to book the provided services online. using Angular 17, Node.js, MongoDB and Express.js',
           imageUrl:
@@ -68,15 +68,15 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://out-of-context.github.io/portfolio/',
     phone: '',
     email: 'salhi13.ps@gmail.com',
-    //leetcode:'https://leetcode.com/u/out-of-context/'
+    leetcode:'https://leetcode.com/u/out-of-context/'
   },
   resume: {
     fileUrl:
